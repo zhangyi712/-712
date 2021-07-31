@@ -1,0 +1,20 @@
+麻烦潇总帮助加一下远程工时，谢谢！
+
+联通vpn地址	https://noc.js165.com/por/login_psw.csp?sfrnd=2346912324982305&encrypt=1	
+
+用户名	18602551011	
+
+密码	Fzheng!123	
+
+
+
+使用IE浏览器，登录上述地址，用我的用户名密码登录。会提示输入验证码，联系我获取验证码。然后就自动安装相关插件，待插件安装完毕，即完成VPN的拨号
+
+随后启动谷歌或者火狐浏览器，输入如下地址：
+https://132.225.132.160/vsphere-client/?csp#extensionId%3Dvsphere.core.folder.gettingStarted%3Bcontext%3Dcom.vmware.core.model%253A%253AServerObjectRef~0e51a03f-1a9c-4ed1-80ca-c7f57e92985f%253AFolder%253Agroup-v386~core
+
+用户名	panhao@oss.un
+密码：	Panhao12#$
+
+输入上述密码后即完成虚机客户端的登录。
+cp zulu*.tar.gz /home/pdm-cli/pkg/*openjdk*
